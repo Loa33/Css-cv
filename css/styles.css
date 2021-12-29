@@ -55,7 +55,6 @@ img {
 	height: 850px;
 }
 .middle-container {
-	padding-bottom: 5%;
 	padding-top: 5%;
 	position: relative;
 }
@@ -89,7 +88,6 @@ img {
 	object-fit: fill;
 }
 .skills {
-	padding-bottom: 60px;
 	padding-top: 60px;
 }
 .contact-me {
@@ -97,18 +95,18 @@ img {
 	padding-top: 5%;
 }
 .skill-row {
-	margin: 2rem auto 10rem auto;
+	margin: 3rem auto 14rem auto;
 	width: 50%;
 	text-align: left;
 	line-height: 2;
 }
 .skill-design {
-	width: 50%;
+	width: 30%;
 	float: left;
 	margin-right: 30px;
 }
 .skill-develop {
-	width: 50%;
+	width: 30%;
 	float: right;
 	margin-left: 30px;
 }
