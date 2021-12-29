@@ -37,6 +37,7 @@ a {
 	background-color: #fff9f9;
 	position: relative;
 	padding-top: 100px;
+	display: inherit;
 }
 .middle-container {
 	position: relative;
